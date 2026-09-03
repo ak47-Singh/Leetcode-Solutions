@@ -8,6 +8,7 @@ My Leetcode Problem Solving Solutions
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,5 @@ My Leetcode Problem Solving Solutions
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 <!---LeetCode Topics End-->
