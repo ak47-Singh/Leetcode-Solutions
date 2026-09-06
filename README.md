@@ -35,4 +35,12 @@ My Leetcode Problem Solving Solutions
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
