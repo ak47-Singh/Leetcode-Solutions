@@ -6,6 +6,7 @@ My Leetcode Problem Solving Solutions
 ## Array
 |  |
 | ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -47,6 +48,7 @@ My Leetcode Problem Solving Solutions
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Tree
 |  |
 | ------- |
@@ -67,4 +69,12 @@ My Leetcode Problem Solving Solutions
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
