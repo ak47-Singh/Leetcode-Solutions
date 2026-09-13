@@ -6,6 +6,7 @@ My Leetcode Problem Solving Solutions
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -28,6 +29,7 @@ My Leetcode Problem Solving Solutions
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
