@@ -38,6 +38,7 @@ My Leetcode Problem Solving Solutions
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3870-count-commas-in-range](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -93,6 +94,7 @@ My Leetcode Problem Solving Solutions
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Two Pointers
 |  |
 | ------- |
