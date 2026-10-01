@@ -60,6 +60,7 @@ My Leetcode Problem Solving Solutions
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -136,12 +137,14 @@ My Leetcode Problem Solving Solutions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
