@@ -10,6 +10,7 @@ My Leetcode Problem Solving Solutions
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -126,12 +127,14 @@ My Leetcode Problem Solving Solutions
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
