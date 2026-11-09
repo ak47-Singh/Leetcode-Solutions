@@ -11,6 +11,7 @@ My Leetcode Problem Solving Solutions
 | [1267-count-servers-that-communicate](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1882-process-tasks-using-servers](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -174,6 +175,7 @@ My Leetcode Problem Solving Solutions
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3498-reverse-degree-of-a-string](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
@@ -214,6 +216,7 @@ My Leetcode Problem Solving Solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Indexed Tree
@@ -249,4 +252,8 @@ My Leetcode Problem Solving Solutions
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
