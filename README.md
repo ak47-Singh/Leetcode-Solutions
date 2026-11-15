@@ -10,6 +10,7 @@ My Leetcode Problem Solving Solutions
 | [0835-image-overlap](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [1267-count-servers-that-communicate](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -67,6 +68,7 @@ My Leetcode Problem Solving Solutions
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3524-find-x-value-of-array-i](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -78,6 +80,7 @@ My Leetcode Problem Solving Solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3904-smallest-stable-index-ii](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
@@ -105,6 +108,7 @@ My Leetcode Problem Solving Solutions
 | [0032-longest-valid-parentheses](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
