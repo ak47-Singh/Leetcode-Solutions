@@ -70,6 +70,7 @@ My Leetcode Problem Solving Solutions
 | [1401-circle-and-rectangle-overlapping](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3360-stone-removal-game](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3524-find-x-value-of-array-i](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -185,6 +186,7 @@ My Leetcode Problem Solving Solutions
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [3360-stone-removal-game](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/ak47-Singh/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
